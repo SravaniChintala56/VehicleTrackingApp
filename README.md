@@ -13,3 +13,9 @@ and includes play/stop controls and speed adjustment.
 - Car icon rotates according to movement direction
 - Blue polyline path showing the full route
 - Play, Stop, and Speed Control buttons
+
+How to run it:
+git clone <repo-url>
+cd VehicleTrackingApp
+npm install
+node server.js
