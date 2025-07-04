@@ -15,7 +15,7 @@ and includes play/stop controls and speed adjustment.
 - Play, Stop, and Speed Control buttons
 
 How to run it:
-git clone <repo-url>
-cd VehicleTrackingApp
-npm install
-node server.js
+git clone <repo-url>  
+cd VehicleTrackingApp  
+npm install  
+node server.js  
