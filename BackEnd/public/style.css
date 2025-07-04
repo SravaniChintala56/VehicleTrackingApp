@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 10px;
+}
+
+#map {
+  height: 85vh;
+  width: 100%;
+}
+
+.controls {
+  margin: 10px;
+}
+
+button, select {
+  padding: 6px 10px;
+  margin: 0 5px;
+}
+
+.rotated-icon {
+  transform-origin: center center;
+}
+
